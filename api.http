@@ -39,8 +39,8 @@ PATCH  http://localhost:1234/movies/dcddefad-a94c-4810-8acc-5f188d3b18c3
 Content-Type: application/json
 
 {
-	"year": 2010
+	"year": 2020
 }
 
 ### Eliminar una peliculas
-DELETE http://localhost:1234/movies/aaaad-a94c-4810-8acc-5f188d3b18c3
+DELETE http://localhost:1234/movies/dcddefad-a94c-4810-8acc-5f188d3b18c3
